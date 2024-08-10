@@ -1,0 +1,140 @@
+PAGE ONE Economics®
+
+Figure 3
+Initial Claims
+
+FRED ~ — initial claims
+7,000,000
+6,000,000
+5,000,000
+
+4,000,000
+
+Number
+
+3,000,000
+2,000,000
+1,000,000
+
+0
+2019-11 2020-01 2020-03 2020-05
+
+Source: U.S. Employment and Training Administration
+
+SOURCE: FRED®, Federal Reserve Bank of St. Louis;
+https://fred.stlouisfed.org/series/ICSA#0.
+
+Figure 4
+Continued Claims (Insured Unemployment)
+
+FRED ag — Continued Claims (Insured Unemployment)
+28,000,000
+24,000,000
+20,000,000
+
+16,000,000
+
+Number
+
+12,000,000
+
+8,000,000
+
+4,000,000
+
+0
+2019-11 2020-01 2020-03 2020-05
+
+Source: U.S. Employment and Training Administration
+
+SOURCE: FRED®, Federal Reserve Bank of St. Louis;
+https://fred.stlouisfed.org/series/CCSA#0.
+
+Figure 5
+Unemployment Rate
+
+FRED ai — Unemployment Rate
+
+15.0
+
+Percent
+
+75
+5.0
+
+25
+Nov 2019 Jan 2020 Mar 2020 May 2020
+
+Source: U.S. Bureau of Labor Statistics
+
+SOURCE: FRED®, Federal Reserve Bank of St. Louis;
+https://fred.stlouisfed.org/series/UNRATE#O.
+
+2020-07
+
+2020-07
+
+2020-09
+
+fred.stlouisfed.org
+
+2020-09
+
+fred.stlouisfed.org
+
+Jul 2020 Sep 2020
+
+fred.stlouisfed.org
+
+Federal Reserve Bank of St. Louis | research.stlouisfed.org 4
+
+rate is the same for all employers in all states. However,
+the state employment tax varies from one state to
+another.
+
+Employers must pay FUTA tax on a regular basis. And at
+the end of a year, employers must file a FUTA tax return.
+This tax return requires filers to record FUTA tax payments
+made for the year and submit any payment due. FUTA
+taxes are submitted to the Internal Revenue Service (IRS)
+and are credited to individual state accounts.
+
+As part of the federal-state partnership, the federal gov-
+ernment pays for administrative costs and for setting up
+employment offices that attempt to match workers with
+new jobs.'6 Determining benefits and issuing payments
+are state responsibilities.
+
+Data Collection
+
+Data collected by the DOL from state unemployment
+agencies for the number of UI claims filed weekly are help-
+ful. These data can tell something about the job market.
+For example, when the number of initial claims is steep,
+it’s an indication of an abrupt loss of jobs (Figure 3). Con-
+tinued claims (Figure 4) indicate the number of unem-
+ployed people who have already filed an initial claim and
+are filing again so that they keep receiving weekly benefits.
+
+However, many workers who lose their job may not file
+for UC for a while. And many people remain unemployed
+after benefits expire. So, UI claims data do not precisely
+show the number of unemployed persons and are not a
+measure of the unemployment rate. The unemployment
+rate is measured quite differently by another agency,
+the Bureau of Labor Statistics (BLS). The BLS does not
+use the unemployment claims data to figure the unem-
+ployment rate. It uses a system of household surveys to
+collect information from a representative sample of the
+U.S. population to calculate the unemployment rate
+(Figure 5).
+
+Unemployment Insurance Changes
+
+UI programs are subject to ongoing change. For example,
+over the years the duration of regular Ul benefits has
+increased from 16 weeks to 26 weeks in most states. Also,
+in some previous UI programs, workers could become
+eligible for UI after being fired from their job or quitting
+work. Over the years this became disallowed in all states.”
+Technology has also changed the UI process. In earlier

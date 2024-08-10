@@ -1,0 +1,2 @@
+data/merged_fingerprint_naics.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
